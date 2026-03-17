@@ -15,6 +15,21 @@ Dataset : Kaggle dataset "The big dataset of ultra-marathon running" used.
 -  rename columns
 -  reorder columns
 
-02.Charts and Groups
+02.Charts and Groups<br>
 03. querris
+
+
+![pic1](./Unknown.png)
+
+![pic2](./Unknown-2.png)
+
+![pic3](./Unknown-3.png)
+
+![pic4](./Unknown-4.png)
+
+![pic5](./Unknown-5.png)
+
+![pic6](./Unknown-6.png)
+
+
 
